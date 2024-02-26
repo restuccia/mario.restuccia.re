@@ -1,13 +1,15 @@
 project:
   type: website
 
+resources:
+  - CNAME
+
 website:
-  title: "mario.restuccia.re"
+  title: "Mario Restuccia"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
