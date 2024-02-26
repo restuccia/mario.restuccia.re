@@ -12,6 +12,7 @@ about:
         - icon: github
           text: Github
           url: https://github.com/restuccia
+image: img/mario_restuccia.jpg
 comments: false
 ---
 
