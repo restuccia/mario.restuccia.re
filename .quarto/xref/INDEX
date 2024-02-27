@@ -4,5 +4,8 @@
   },
   "about.qmd": {
     "about.html": "dbe3fe11"
+  },
+  "talks.qmd": {
+    "talks.html": "246810e0"
   }
 }

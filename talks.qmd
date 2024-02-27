@@ -1,0 +1,15 @@
+---
+title: Talks
+---
+
+# For the French government / data.gouv.fr
+These presentations were created and delivered as part of my work for the French Interministerial Directorate for Digital Affairs, and are therefore available under [open licence](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
+
+## 2021
+- **Opening Covid-19 vaccines data in France**
+Presentation for a support workshop organised by data.europa.eu
+2021-02-18 - EN - [Slides](slides/2021-02-18-edp-covid-vaccines.pdf)
+
+- **Open data policy and implementation in France**
+Presentation for the Norwegian Digitalisation Agency
+2021-04-21 - EN - [Slides](slides/2021-04-21-norwegian-digitalisation-agency.pdf)
