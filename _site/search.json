@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mario Restuccia",
-    "section": "",
-    "text": "hello world"
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -19,5 +12,12 @@
     "title": "Talks",
     "section": "",
     "text": "Opening Covid-19 vaccines data in France Presentation for a support workshop organised by data.europa.eu 2021-02-18 - EN - Slides\nOpen data policy and implementation in France Presentation for the Norwegian Digitalisation Agency 2021-04-21 - EN - Slides"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mario Restuccia",
+    "section": "",
+    "text": "hello world"
   }
 ]
