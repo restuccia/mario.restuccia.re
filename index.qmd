@@ -16,5 +16,12 @@ image: img/mario_restuccia.jpg
 comments: false
 ---
 
-hello world
+I am a digital policy expert, specialised in digital rights and (open) data.
 
+### Languages
+- **Italian** - Native
+- **English** - Fluent
+- **French** - Fluent
+- **Spanish** - Intermediate
+- **Russian** - Currently learning
+- **Catalan** - Currently learning
