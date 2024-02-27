@@ -2,14 +2,62 @@
 title: Talks
 ---
 
-# For the French government / data.gouv.fr
-These presentations were created and delivered as part of my work for the French Interministerial Directorate for Digital Affairs, and are therefore available under [open licence](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
+## For the French government / data.gouv.fr
+These presentations were created and delivered as part of my work for the open data team of the French Interministerial Directorate for Digital Affairs, and are therefore available under [open licence](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
 
-## 2021
-- **Opening Covid-19 vaccines data in France**
-Presentation for a support workshop organised by data.europa.eu
-2021-02-18 - EN - [Slides](slides/2021-02-18-edp-covid-vaccines.pdf)
+### 2023
+- | **Formation open data**
+| Training for civil servants of the French Ministry of National Education
+| 2023-03-09 - FR - [Slides](slides/2023-03-09-formation-opendata-educnat.pdf)
 
-- **Open data policy and implementation in France**
-Presentation for the Norwegian Digitalisation Agency
-2021-04-21 - EN - [Slides](slides/2021-04-21-norwegian-digitalisation-agency.pdf)
+### 2022
+- | **L'open data in Francia e data.gouv.fr**
+| Presentation for the 2022 edition of [Open Data Sicilia](https://opendatasicilia.it/)
+| 2022-09-30 - IT - [Slides](slides/2022-09-30-open-data-sicilia.pdf)
+
+- | **L'ouverture des données publiques et le portail data.gouv.fr**
+| Presentation for the students of a course at the University of Lille
+| 2022-04-07 - FR - [Slides](slides/2022-04-07-universite-lille.pdf)
+
+### 2021
+- | **Formation open data**
+| Training for the board of [Unédic](https://www.unedic.org/), the association managing unemployment insurance in France
+| 2021-12-09 - FR - [Slides](slides/2021-12-09%20formation-unedic.pdf)
+
+- | **L'open data en France**
+| Presentation for the [Moroccan Digital Development Agency](https://www.add.gov.ma/)
+| 2021-11-30 - FR - [Slides](slides/2021-11-30-agence-digitale-maroc.pdf)
+
+- | **L'open data en France**
+| Presentation for the [Datarama](https://neoblogs.lecolededesign.com/datarama/datarama-6/) event of the Nantes Digital Week
+| 2021-09-17 - FR - [Slides](slides/2021-09-17-etalab-datarama-nantes.pdf)
+
+- | **Le service public de la donnée en France**
+| Presentation for the [2021 Canadian Open Data Summit](https://web.archive.org/web/20211024001742/https://www.opendatasummit.ca/)
+| 2021-09-15 - FR - [Slides](slides/2021-09-15-sommet-canadien-donnees-ouvertes-donnees-reference.pdf)
+
+- | **Open data policy and implementation in France**
+| Presentation for a professional arena of the [Norwegian Digitalisation Agency](https://www.digdir.no/informasjonsforvaltning/faglig-arena-informasjonsforvaltning/2484)
+| 2021-04-21 - EN - [Slides](slides/2021-04-21-norwegian-digitalisation-agency.pdf)
+
+- | **Opening Covid-19 vaccines data in France**
+| Presentation for a support workshop organised by data.europa.eu
+| 2021-02-18 - EN - [Slides](slides/2021-02-18-edp-covid-vaccines.pdf) - [Recording](https://www.youtube.com/watch?v=5ck6AN_tQLM)
+
+### 2020
+- | **Open Data - The French case**
+| Presentation for the [6th Digital Government Ministerial Meeting of Latin America and the Caribbean](https://www.redgealc.org/ministerial2020/en/the-event/)
+| 2020-11-18 - EN - [Slides](slides/2020-11-18-slides-vi-digital-government-ministerial-meeting-of-the-americas.pdf)
+
+## Older slides
+Presentations created a long time ago.
+
+### 2012
+- | **Arduino Lab**
+| Presentation for a local event of a Linux User Group for the Linux Day
+| IT - [Slides](slides/Arduino-Lab-2012.pdf)
+
+### 2011
+- | **Arduino Lab**
+| Presentation for a local event of a Linux User Group for the Linux Day
+| IT - [Slides](slides/Arduino-Lab-2011.pdf)
