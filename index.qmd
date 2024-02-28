@@ -13,6 +13,9 @@ about:
         - icon: github
           text: Github
           url: https://github.com/restuccia
+        - icon: file-earmark-person
+          text: CV
+          url: resources/cv-mario-restuccia.pdf
 image: img/mario_restuccia.jpg
 comments: false
 ---
