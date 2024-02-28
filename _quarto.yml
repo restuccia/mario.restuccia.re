@@ -3,6 +3,7 @@ project:
 
 resources:
   - CNAME
+  - documents
 
 website:
   title: "Mario Restuccia"
