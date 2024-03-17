@@ -13,7 +13,7 @@ These presentations were created and delivered as part of my work for the open d
 ### 2022
 - | **L'open data in Francia e data.gouv.fr**
 | Presentation for the 2022 edition of [Open Data Sicilia](https://opendatasicilia.it/)
-| 2022-09-30 - IT - [Slides](slides/2022-09-30-open-data-sicilia.pdf)
+| 2022-09-30 - IT - [Slides](slides/2022-09-30-open-data-sicilia.pdf) - [Recording](https://www.youtube.com/watch?v=aUnRy4Rin8Q&t=25705s)
 
 - | **L'ouverture des données publiques et le portail data.gouv.fr**
 | Presentation for the students of a course at the University of Lille
@@ -30,7 +30,7 @@ These presentations were created and delivered as part of my work for the open d
 
 - | **L'open data en France**
 | Presentation for the [Datarama](https://neoblogs.lecolededesign.com/datarama/datarama-6/) event of the Nantes Digital Week
-| 2021-09-17 - FR - [Slides](slides/2021-09-17-etalab-datarama-nantes.pdf)
+| 2021-09-17 - FR - [Slides](slides/2021-09-17-etalab-datarama-nantes.pdf) - [Recording](https://www.youtube.com/watch?v=UXo3BLGlHnA&t=14344s)
 
 - | **Le service public de la donnée en France**
 | Presentation for the [2021 Canadian Open Data Summit](https://web.archive.org/web/20211024001742/https://www.opendatasummit.ca/)
@@ -49,15 +49,3 @@ These presentations were created and delivered as part of my work for the open d
 | Presentation for the [6th Digital Government Ministerial Meeting of Latin America and the Caribbean](https://www.redgealc.org/ministerial2020/en/the-event/)
 | 2020-11-18 - EN - [Slides](slides/2020-11-18-slides-vi-digital-government-ministerial-meeting-of-the-americas.pdf)
 
-## Older slides
-Presentations created a long time ago.
-
-### 2012
-- | **Arduino Lab**
-| Presentation for a local event of a Linux User Group for the Linux Day
-| IT - [Slides](slides/Arduino-Lab-2012.pdf)
-
-### 2011
-- | **Arduino Lab**
-| Presentation for a local event of a Linux User Group for the Linux Day
-| IT - [Slides](slides/Arduino-Lab-2011.pdf)

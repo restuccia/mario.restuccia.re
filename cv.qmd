@@ -1,0 +1,46 @@
+---
+title: CV
+---
+
+<center>
+
+::: {.btn-group role="group" aria-label="CV"}
+<a href="documents/cv-mario-restuccia.pdf"> <button type="button" class="btn btn-primary me-md-2 btn-sm">cv.pdf</button></a> <a href="https://www.linkedin.com/in/mario-restuccia/"> <button type="button" class="btn btn-primary me-md-2 btn-sm">LinkedIn</button></a>
+:::
+
+</center>
+
+# Professional experience
+
+### [Eurocities](https://eurocities.eu)
+**Forum and Project Officer - Digital Transformation**
+_June 2023 - Ongoing_ - Brussels, Belgium
+Eurocities is the network of more than 200 cities in 38 countries, representing 130 million people, working together to ensure a good quality of life for all.
+
+As Forum and Project Officer in the Digital Transformation team, I am responsible for:
+- Monitoring policy initiatives and developments at EU level in the field of digital, and informing members about their impact at the local level
+- Contributing to the policy and advocacy work of Eurocities
+- Developing contacts with the EU institutions, with member cities, and with other stakeholders
+- Establishing and maintaining a relationship with the chair and vice chair of the Digital Forum, of its working groups and task forces
+- Leading the organisation of forum meetings, working groups, task forces, online workshops, and other activities
+- Contribute to project proposal writing
+- Support project management
+
+Eurocities is partner of the [Cities Coalition for Digital Rights](https://citiesfordigitalrights.org/), a network of cities committed to promoting and defending digital rights in urban context. As Digital Forum officer, I oversee the relations between Eurocities and the Coalition, and provide policy expertise.
+
+### [Direction interministérielle du numérique](https://numerique.gouv.fr)
+**Open Data officer**
+_September 2020 - June 2023_ - Paris, France
+The Interministerial Directorate for Digital Affairs (_Direction interministérielle du numérique_, DINUM), is a service of the French Prime Minister responsible for developing the State's digital strategy and overseeing its implementation.
+
+I worked in the team responsible for the national data, algorithms, and source code policy, ensuring the opening of public sector data and their availability on the national portal [data.gouv.fr](https://data.gouv.fr), the development of APIs for data sharing between administrations and the development of public services (in accordance with the once-only principle), the transparency of public algorithms, the usage of open source software in the public sector, and the opening of public sector source code.
+
+As Open Data Officer, I:
+- Supported public administrations in the drafting and the implementation of their open data strategy, from setting up an internal data governance system, to tackling legal issues related to the national open data regulation, setting up the best technical way to provide and update data on the national portal, improving quality of data up to standards.
+- Contributed to the definition of the national policy on data, algorithms and source codes, with a specific focus on open data. More specifically, I contributed to the drafting of fifteen ministerial roadmaps on data, algorithms and source codes policy, and the interministerial data administration framework.
+- Drafted policy recommendations for the interministerial director of digital affairs (acting as CDO) and the ministerial staff on data policy.
+- Acted as the operational point of contact on open data for international actors such as the European Commission (data.europa.eu), the Digital Government and Data Unit of the OECD, the Open Data Institute, the Open Data Charter.
+- Promoted data reuse and followed the activity on the national open data portal data.gouv.fr.
+- Facilitated and fostered exchanges with a broad community of actors, including NGOs, journalists, data scientists.
+- Gave speeches at several national and international events to present the achievements of the French Open Data team.
+- Worked as project manager for the realisation of three data inventories (available as open data), for the development of catalogue.data.gouv.fr, a tool for central government agencies to create, manage and open their data catalogues.
