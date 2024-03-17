@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mario.restuccia.re/index.html</loc>
-    <lastmod>2024-03-03T10:37:56.033Z</lastmod>
+    <lastmod>2024-03-17T10:50:30.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mario.restuccia.re/cv.html</loc>
+    <lastmod>2024-03-17T10:50:30.919Z</lastmod>
   </url>
   <url>
     <loc>https://mario.restuccia.re/talks.html</loc>
-    <lastmod>2024-03-03T10:37:56.361Z</lastmod>
+    <lastmod>2024-03-17T10:50:31.247Z</lastmod>
   </url>
 </urlset>
