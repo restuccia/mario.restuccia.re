@@ -10,12 +10,12 @@ callout-appearance: minimal
 
 # Professional experience
 
-### [Eurocities](https://eurocities.eu)
-::: {.callout-note}
+## [Eurocities](https://eurocities.eu)
 | **Forum and Project Officer - Digital Transformation**
 | _June 2023 - Ongoing_
 | Brussels, Belgium
-:::
+
+---
 
 Eurocities is the network of more than 200 cities in 38 countries, representing 130 million people, working together to ensure a good quality of life for all.
 
@@ -31,12 +31,12 @@ As Forum and Project Officer in the Digital Transformation team, I am responsibl
 
 Eurocities is partner of the [Cities Coalition for Digital Rights](https://citiesfordigitalrights.org/), a network of cities committed to promoting and defending digital rights in urban context. As Digital Forum officer, I oversee the relations between Eurocities and the Coalition, and provide policy expertise.
 
-### [Direction interministérielle du numérique](https://numerique.gouv.fr)
-::: {.callout-note}
+## [Direction interministérielle du numérique](https://numerique.gouv.fr)
 | **Open Data officer**
 | _September 2020 - June 2023_
 | Paris, France
-:::
+
+---
 
 The Interministerial Directorate for Digital Affairs (_Direction interministérielle du numérique_, DINUM), is a service of the French Prime Minister responsible for developing the State's digital strategy and overseeing its implementation.
 
