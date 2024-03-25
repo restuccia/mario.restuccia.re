@@ -7,6 +7,7 @@ resources:
 
 website:
   title: "Mario Restuccia"
+  search: false
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +16,16 @@ website:
         text: CV
       - href: talks.qmd
         text: Talks
+    tools:
+      - icon: mastodon
+        href: https://eupolicy.social/@mario
+      - icon: github
+        href: https://github.com/restuccia
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mario-restuccia/
+      - icon: envelope
+        menu:
+          - text: mario at restuccia dot re
 
 format:
   html:
