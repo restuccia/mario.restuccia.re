@@ -23,9 +23,6 @@ website:
         href: https://github.com/restuccia
       - icon: linkedin
         href: https://www.linkedin.com/in/mario-restuccia/
-      - icon: envelope
-        menu:
-          - text: mario at restuccia dot re
 
 format:
   html:
