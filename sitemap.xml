@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mario.restuccia.re/index.html</loc>
-    <lastmod>2024-03-25T14:47:15.823Z</lastmod>
+    <lastmod>2024-04-01T09:42:07.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mario.restuccia.re/LICENCE.html</loc>
+    <lastmod>2024-04-01T09:42:07.674Z</lastmod>
   </url>
   <url>
     <loc>https://mario.restuccia.re/cv.html</loc>
-    <lastmod>2024-03-25T14:47:15.819Z</lastmod>
+    <lastmod>2024-04-01T09:42:07.678Z</lastmod>
   </url>
   <url>
     <loc>https://mario.restuccia.re/talks.html</loc>
-    <lastmod>2024-03-25T14:47:16.139Z</lastmod>
+    <lastmod>2024-04-01T09:42:07.998Z</lastmod>
   </url>
 </urlset>
